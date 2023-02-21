@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Heatmap from '../components/Heatmap';
-import Streetsmap from '../Streetsmap';
+import Streetsmap from '../components/Streetsmap';
 import { fetcher, dataHandler } from '../fetcher';
 import css from '../styles/Home.module.css';
 

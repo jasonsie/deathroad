@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "git": "git add . && git commit -m 'revised' && git push",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
